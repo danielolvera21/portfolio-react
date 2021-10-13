@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efb6bf7d.chunk.css",
+    "main.js": "/static/js/main.10b88770.chunk.js",
+    "main.js.map": "/static/js/main.10b88770.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.048ac80d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.048ac80d.js.map",
+    "static/js/2.c39455cf.chunk.js": "/static/js/2.c39455cf.chunk.js",
+    "static/js/2.c39455cf.chunk.js.map": "/static/js/2.c39455cf.chunk.js.map",
+    "static/js/3.1ba61dd1.chunk.js": "/static/js/3.1ba61dd1.chunk.js",
+    "static/js/3.1ba61dd1.chunk.js.map": "/static/js/3.1ba61dd1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.efb6bf7d.chunk.css.map": "/static/css/main.efb6bf7d.chunk.css.map",
+    "static/js/2.c39455cf.chunk.js.LICENSE.txt": "/static/js/2.c39455cf.chunk.js.LICENSE.txt",
+    "static/media/hero-bg.000e1b5f.jpg": "/static/media/hero-bg.000e1b5f.jpg",
+    "static/media/index.css": "/static/media/laptop.5251f1a0.jpg",
+    "static/media/movie-date.d9a0b958.png": "/static/media/movie-date.d9a0b958.png",
+    "static/media/pizza.843c01cf.jpg": "/static/media/pizza.843c01cf.jpg",
+    "static/media/profilepic.96638a28.jpg": "/static/media/profilepic.96638a28.jpg",
+    "static/media/social-scoop.3cfaae97.png": "/static/media/social-scoop.3cfaae97.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.048ac80d.js",
+    "static/js/2.c39455cf.chunk.js",
+    "static/css/main.efb6bf7d.chunk.css",
+    "static/js/main.10b88770.chunk.js"
+  ]
+}
