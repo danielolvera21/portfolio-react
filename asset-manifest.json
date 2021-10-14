@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/danielolvera21/portfolio-react/static/css/main.ed60f9df.chunk.css",
-    "main.js": "/danielolvera21/portfolio-react/static/js/main.10b88770.chunk.js",
-    "main.js.map": "/danielolvera21/portfolio-react/static/js/main.10b88770.chunk.js.map",
-    "runtime-main.js": "/danielolvera21/portfolio-react/static/js/runtime-main.aa3f4168.js",
-    "runtime-main.js.map": "/danielolvera21/portfolio-react/static/js/runtime-main.aa3f4168.js.map",
-    "static/js/2.c39455cf.chunk.js": "/danielolvera21/portfolio-react/static/js/2.c39455cf.chunk.js",
-    "static/js/2.c39455cf.chunk.js.map": "/danielolvera21/portfolio-react/static/js/2.c39455cf.chunk.js.map",
-    "static/js/3.1ba61dd1.chunk.js": "/danielolvera21/portfolio-react/static/js/3.1ba61dd1.chunk.js",
-    "static/js/3.1ba61dd1.chunk.js.map": "/danielolvera21/portfolio-react/static/js/3.1ba61dd1.chunk.js.map",
-    "index.html": "/danielolvera21/portfolio-react/index.html",
-    "static/css/main.ed60f9df.chunk.css.map": "/danielolvera21/portfolio-react/static/css/main.ed60f9df.chunk.css.map",
-    "static/js/2.c39455cf.chunk.js.LICENSE.txt": "/danielolvera21/portfolio-react/static/js/2.c39455cf.chunk.js.LICENSE.txt",
-    "static/media/hero-bg.000e1b5f.jpg": "/danielolvera21/portfolio-react/static/media/hero-bg.000e1b5f.jpg",
-    "static/media/index.css": "/danielolvera21/portfolio-react/static/media/laptop.5251f1a0.jpg",
-    "static/media/movie-date.d9a0b958.png": "/danielolvera21/portfolio-react/static/media/movie-date.d9a0b958.png",
-    "static/media/pizza.843c01cf.jpg": "/danielolvera21/portfolio-react/static/media/pizza.843c01cf.jpg",
-    "static/media/profilepic.96638a28.jpg": "/danielolvera21/portfolio-react/static/media/profilepic.96638a28.jpg",
-    "static/media/social-scoop.3cfaae97.png": "/danielolvera21/portfolio-react/static/media/social-scoop.3cfaae97.png"
+    "main.css": "/portfolio-react/static/css/main.9498a05a.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.10b88770.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.10b88770.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.25bbd32c.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.25bbd32c.js.map",
+    "static/js/2.c39455cf.chunk.js": "/portfolio-react/static/js/2.c39455cf.chunk.js",
+    "static/js/2.c39455cf.chunk.js.map": "/portfolio-react/static/js/2.c39455cf.chunk.js.map",
+    "static/js/3.1ba61dd1.chunk.js": "/portfolio-react/static/js/3.1ba61dd1.chunk.js",
+    "static/js/3.1ba61dd1.chunk.js.map": "/portfolio-react/static/js/3.1ba61dd1.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/main.9498a05a.chunk.css.map": "/portfolio-react/static/css/main.9498a05a.chunk.css.map",
+    "static/js/2.c39455cf.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.c39455cf.chunk.js.LICENSE.txt",
+    "static/media/hero-bg.000e1b5f.jpg": "/portfolio-react/static/media/hero-bg.000e1b5f.jpg",
+    "static/media/index.css": "/portfolio-react/static/media/laptop.5251f1a0.jpg",
+    "static/media/movie-date.d9a0b958.png": "/portfolio-react/static/media/movie-date.d9a0b958.png",
+    "static/media/pizza.843c01cf.jpg": "/portfolio-react/static/media/pizza.843c01cf.jpg",
+    "static/media/profilepic.96638a28.jpg": "/portfolio-react/static/media/profilepic.96638a28.jpg",
+    "static/media/social-scoop.3cfaae97.png": "/portfolio-react/static/media/social-scoop.3cfaae97.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa3f4168.js",
+    "static/js/runtime-main.25bbd32c.js",
     "static/js/2.c39455cf.chunk.js",
-    "static/css/main.ed60f9df.chunk.css",
+    "static/css/main.9498a05a.chunk.css",
     "static/js/main.10b88770.chunk.js"
   ]
 }
