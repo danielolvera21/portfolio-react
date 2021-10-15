@@ -2,7 +2,7 @@ import React from "react";
 import runBuddyPic from "../../assets/small/hero-bg.jpg";
 import socialScoopPic from "../../assets/small/social-scoop.png";
 import movieDatePic from "../../assets/small/movie-date.png";
-import pizzaHuntPic from "../../assets/small/pizza.jpg";
+import LP_Pulse from "../../assets/small/mzscreen1.png";
 
 function Portfolio(props) {
   // const currentCategory = props
@@ -34,11 +34,11 @@ function Portfolio(props) {
           <img className="link-img" src={movieDatePic} alt="" />
         </a>
         <a
-          href="https://github.com/danielolvera21/pizza-hunt"
+          href="https://pure-chamber-70764.herokuapp.com/"
           target="_blank"
           rel="noreferrer"
         >
-          <img className="link-img" src={pizzaHuntPic} alt="" />
+          <img className="link-img" src={LP_Pulse} alt="" />
         </a>
       </div>
     </section>
